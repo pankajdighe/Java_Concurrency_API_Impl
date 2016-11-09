@@ -6,6 +6,8 @@ import java.util.concurrent.locks.ReentrantLock;
  * This is simple implementation of ReentrantLick
  * This demo will start three threads, all threads print the specific string on console
  * This program will synchronize the these three threads
+ *
+ *
  */
 public class ReentrantLockDemo {
 
