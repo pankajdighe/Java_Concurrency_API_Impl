@@ -23,10 +23,6 @@ class User implements Runnable{
 
     }
 
-    void sendPrint(){
-
-
-    }
 
     public void run() {
 
